@@ -1,0 +1,31 @@
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: rgba(127, 255, 212, 0.189);
+}
+h1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.container-fluid{
+    margin: 100px 0px;
+    background-color: rgb(115, 208, 215);
+    border-radius: 12px;
+    padding: 50px;
+    width: 40%;
+   }
+   textarea{
+    width: 100%;
+    border-radius: 6px;
+    border-color:silver;
+   }
+   button{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+   }
+   textarea:active{
+    border-color: skyblue;
+   }
